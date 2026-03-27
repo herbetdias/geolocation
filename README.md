@@ -2,6 +2,12 @@
 
 Plugin para GLPI 10/11 que adiciona geolocalização aos assets do tipo **Computador**, detectando automaticamente a localização a partir do IP do agente.
 
+## Prints
+
+<img width="2517" height="802" alt="image" src="https://github.com/user-attachments/assets/c5f23468-cfb6-4f98-b693-b016a390e6c4" />
+<img width="1936" height="590" alt="image" src="https://github.com/user-attachments/assets/a3409704-ab76-4420-aad2-90cd4601490e" />
+
+
 ## Funcionalidades
 
 - **Aba Geolocation** em cada asset Computador com mapa interativo (OpenStreetMap)
